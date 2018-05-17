@@ -1,11 +1,11 @@
 What happens when you initialize a repository? Why do you need to do it?
 
-Pa da bi napravio jebeni repository i da mozemo da imamo version control
+Pa da bi napravio jebeni repository i da mozemo da imamo version control 
 
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
 
-Jebi me ako znam
+Jebi me ako znam 
 
 How can you use the staging area to make sure you have one commit per logical
 change?
